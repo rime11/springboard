@@ -1,5 +1,5 @@
 ![cover_photo](./README_file/cover_photo.png)
-# International Rock Climbing Recommendation System
+# Early Detection of Diabetes
 
 Diabetes is a disease that is becoming more common. People’s unhealthy habits, like diets full of sugar and unhealthy fats in 
 addition to no exercise, is contributing to this increase. The CDC reports that 34.2 million people or 10% of the US population 
