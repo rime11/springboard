@@ -31,4 +31,5 @@ All the variables were binary except for Age which was continuous. The data set 
 * KNeighbors classifier gave ROC_AUC score of 0.9789 and precision_recall AUC score of 0.9888
 * Decision Tree classifier gave ROC_AUC score of 0.9262 and precision_recall AUC score of 0.9638
 * Random Forest Classifier gave ROC_AUC score of 0.9262 and precision_recall AUC score of 0.9638
+* create pipeline
 
