@@ -1,6 +1,7 @@
+## Sales Forecasting and Customer Segmentation
 ![cover_photo](./Documentation/readme/Sales-Forecasting.jpg)
 
-# Sales Forecasting
+
 ## The data:
 The data set contains sales transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 ##Data Wrangling:
